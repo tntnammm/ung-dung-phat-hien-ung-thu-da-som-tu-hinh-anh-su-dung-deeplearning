@@ -312,6 +312,7 @@ This project demonstrates how Artificial Intelligence can support healthcare by:
 # 👨‍💻 Author
 
 **Tran Nguyen Thanh Nam**
+
 **Tran Nguyen Anh Tuan**
 
 Data Science Student
