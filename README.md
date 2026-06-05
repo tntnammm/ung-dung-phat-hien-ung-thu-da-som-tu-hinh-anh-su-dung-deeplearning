@@ -1,16 +1,5 @@
 # 🩺 Skin Cancer Detection Using Deep Learning
 
-<p align="center">
-  <img src="images/banner.png" width="900">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue">
-  <img src="https://img.shields.io/badge/TensorFlow-DeepLearning-orange">
-  <img src="https://img.shields.io/badge/Flask-WebApp-green">
-  <img src="https://img.shields.io/badge/ComputerVision-MedicalAI-red">
-</p>
-
 ---
 
 # 📌 Project Overview
@@ -148,11 +137,17 @@ Softmax Classification
 
 ### Accuracy & Loss Curves
 
-![Training Curve](images/training_curve.png)
+<p align="center">
+    <img width="950" height="351" alt="image" src="https://github.com/user-attachments/assets/ca379497-0004-4b19-9327-ee5d75af529f" />
+    <img width="980" height="319" alt="image" src="https://github.com/user-attachments/assets/02a7c7c5-25ec-4eb7-a8b8-5c349a22e2d9" />
+</p>
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+<p align="center">
+  <img width="364" height="329" alt="image" src="https://github.com/user-attachments/assets/5efc91fa-0bd5-4622-8566-608287bd610a" />
+</p>
+
 
 The CNN model achieved a test accuracy of **74.30%** on a seven-class skin lesion classification task using the HAM10000 dataset. The results demonstrate the feasibility of applying Deep Learning techniques to support early skin cancer screening and medical image analysis.
 
